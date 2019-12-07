@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{example.html}
+= Kevin J. Leahy -- Publications
+
+== Journal
+. Yazdani, K., Jones, A., *Leahy, K.*, and Hale, M. ``Differentially Private LQ Control.'' /IEEE Transactions on Automatic Control/. *Submitted*.
+. *Leahy, K.*, Cristofalo, E., Vasile, C.-I., Jones, A., Montijano, E., Schwager, M., and Belta, C. ``Control in Belief Space with Temporal Logic Specifications using Vision-based Localization.'' /International Journal of Robotics Research/, 38(6): 702--722, 2019.
+. *Leahy, K.*, and Schwager, M. ``Tracking a Markov Target in a Discrete Environment with Multiple Sensors." /IEEE Transactions on Automatic Control/, 64(6): 2396--2411, 2018.
+. *Leahy, K.*, Zhou, D., Vasile, C.-I., Oikonomopoulos, K., Schwager, M., and Belta, C.``Persistent Surveillance for Unmanned Aerial Vehicles Subject to Charging and Temporal Logic Constraints." /Autonomous Robots/, 2015. 
+. Phelps, C., O'Sullivan, A., Ladapo, J., Weinstein, M.C., *Leahy, K.*, and Douglas, P.  ``Cost effectiveness of a gene expression score and myocardial perfusion imaging for diagnosis of coronary artery disease." /American Heart Journal/, 167(5):697--706, 2014.
+. Lawrence, D., Maschio, M., *Leahy, K.*, Yunger, S., Easaw, J., and Weinstein, M.C.  ``Economic analysis of bevacizumab, cetuximab, and panitumumab with fluoropyrimidine based chemotherapy in the first line treatment of KRAS wild-type metastatic colorectal cancer (mCRC)." /Journal of Medical Economics/, 16(12):1387--1398, 2013.
+. Parthan, A., *Leahy, K.*, O'Sullivan, A., Iakoubova, O., Bare, L., Devlin, J., and Weinstein, M.C.  ``Cost-effectiveness of targeted high-dose atorvastatin therapy following genotype testing in patients with acute coronary syndrome." /Pharmacoeconomics/, 31(6):519--531, 2013.
+
+== Conference
+. Jones, A., *Leahy, K.*, Vasile, C.-I., Sadraddini, S., Serlin, Z., Tron, R., and Belta, C. ``ScRATCHS: Scalable and Robust Algorithms for Task-based Coordination from High-level Specifications." In /Proc. of the International Symposium on Robotics Research (ISRR 10)/, Hanoi, Vietnam, October 2019.
+. Jones, A., *Leahy, K.*, and Hale, M. ``Towards Differential Privacy for Symbolic Systems." In /Proc. of the American Control Conference (ACC)/, Philadelphia, Pennsylvania, 2019.
+. Serlin, Z., *Leahy, K.*, Tron, R., and Belta, C. ``Distributed Sensing Subject to Temporal Logic Constraints ." In /Proc. of the International Conference on Robotics and Automation (ICRA)/, Melbourne, Australia, 2018.
+. Hale, M., Jones, A., and *Leahy, K.* ``Privacy in Feedback: The Differentially Private LQG." In /Proc. of the American Control Conference (ACC)/, Milwuakee, Wisconsin, 2018.
+. *Leahy, K.*, Aksaray, D., and Belta, C. ``Informative Path Planning under Temporal Logic Constraints with Performance Guarantees", In /Proc. of the American Control Conference (ACC)/, Seattle, Washington, 2017.
+. Haghighi, I., *Leahy, K.*, Ivison, R., and Belta, C. ``Semi-supervised Pattern Synthesis
+in Spatially Distributed Dynamical Systems", In /Proc. of the American Control Conference (ACC)/, Seattle, Washington, 2017.
+. Vasile, C.-I., *Leahy, K.*, Cristofalo, E., Jones, A., Schwager, M. and Belta, C. ``Control in Belief Space with Temporal Logic Specifications", In /Proc. of the IEEE Conference on Decision and Control (CDC)/, Las Vegas, Nevada, 2016.
+. Cristofalo, E., *Leahy, K.*, Vasile, C.-I., Montijano, E., Schwager, M. and Belta, C. ``Localization of a Ground Robot by Aerial Robots for GPS-deprived Control with Temporal Logic Constraints." In /Proc. of the International Symposium on Experimental Robotics (ISER 16)/, Tokyo, Japan, 2016.
+. *Leahy, K.*,  and Schwager, M. ``Always Choose Second Best: Tracking a Moving Target on a Graph with a Noisy Binary Sensor", In /Proc. of the European Control Conference (ECC)/, Aalborg, Denmark, 2016.
+. *Leahy, K.*, Kannappan, P., Jardine, A., Tanner, H., Heinz, J., and Belta, C. ``Integration of Deterministic Inference with Formal Synthesis for Control under Uncertainty". In /Proc. of the American Control Conference (ACC)/, Boston, Massachusetts, 2016.
+. *Leahy, K.*, Jones, A., Schwager, M., and Belta, C. ``Distributed Information Gathering Policies under Temporal Logic Constraints", In /Proc. of the IEEE Conference on Decision and Control (CDC)/, Osaka, Japan, 2015.
+. Aksaray, D., *Leahy, K.*, and Belta, C. ``Distributed Multi-Agent Persistent Surveillance Under Temporal Logic Constraints", 5th IFAC Workshop on Distributed Estimation and Control in Networked Systems, Philadelphia, USA, 2015.
+. Svorenova, M., Chmelik, M., *Leahy, K.*, Ferit Eniser, H., Chatterjee, K., Cerna, I., and Belta, C. ``Temporal Logic Motion Planning using POMDPs with Parity Objectives", /Hybrid Systems: Computation and Control (HSCC)/ 2015
+. *Leahy, K.*, Zhou, D., Vasile, C.-I., Oikonomopoulos, K., Schwager, M., and Belta, C. ``Provable correct persistent surveillance for unmanned aerial vehicles subject to charging constraints." In /Proc. of the International Symposium on Experimental Robotics (ISER 14)/, Marrakech, Morocco, June 2014.
+. Phelps, C., Douglas, P., O'Sullivan, A., Deflin, M., *Leahy, K.*, Elashoff, M., and Ladapo, J. ``Cost-effectiveness of a gene expression score and myocardial perfusion imaging for diagnosis of coronary artery disease." /The 34th Annual Meeting of the Society for Medical Decision Making/. Phoenix, AZ, USA, October 2012.
+. Parthan, A., Iakoubova, O., *Leahy, K.*, O'Sullivan, A., Bare, L., Devlin, J., Weinstein, M.C., and Luke, M. ``Cost-effectiveness of targeted statin therapy following genotype testing among acute coronary syndrome patients." /The 16th World Congress on Heart Disease/. Vancouver, BC, Canada, July 2011.
+. Taylor, D., *Leahy, K.*, and Weinstein, M.C. ``Representing uncertainty in calibrated cancer treatment models: a practical approach." /The International Society for Pharmacoeconomics and Outcomes Research 16th Annual International Meeting/. Baltimore, MD, USA, May 2011.
+. Campbell, J., Tao, C., Keith, M., *Leahy, K.*, and Russo, L. ``The pharmacy budget impact of extending reimbursement of lanthanum carbonate to treatment of hyperphosphatemia in patients with chronic kidney disease pre-dialysis in France and the United Kingdom." /The International Society for Pharmacoeconomics and Outcomes Research 13th Annual European Congress/. Prague, Czech Republic, November 2010.
+
+== Thesis
+. *Leahy, K.*, /Multi-Agent Persistent Surveillance under Temporal Logic Constraints/, Ph.D. Thesis, Boston University, December 2016.
