@@ -1,4 +1,10 @@
 # jemdoc: menu{MENU}{example.html}
 = Kevin J. Leahy
 
-Coming soon!
+~~~
+{}{img_left}{kevinphoto.jpg}{kevinphoto}{211}{143}
+~~~
+
+I am a member of the Technical Staff at [http://www.ll.mit.edu MIT Lincoln Laboratory]. My research focuses on robotics and autonomous systems, specifically formal methods and multi-agent systems. 
+I earned a PhD in Mechanical Engineering at Boston University in January 2017.
+Learn more about my [research.html research] or look at my [publications.html publications] and [Kevin_CV.pdf CV].

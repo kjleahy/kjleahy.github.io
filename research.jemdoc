@@ -1,4 +1,25 @@
 # jemdoc: menu{MENU}{example.html}
 = Kevin J. Leahy -- Research
 
-Coming soon!
+My research focuses on the intersections of robotics, formal methods, and multi-agent systems. Here are a few examples of the projects I have worked on. For more information, see my [publications.html list of publications] of my [Kevin_CV.pdf CV].
+
+~~~
+{}{img_left}{IJRR.PNG}{IJRR}{405}{270}
+My work focuses on formal methods for multi-agent systems. Here, a quadrotor localizes a ground robot. The ground robot is assigned a task using a temporal logic formula. It uses noisy localization information from the quadrotor to accomplish its mission while maintaining guarantees on its position uncertainty. For more information, please see ‘‘Control in Belief Space with Temporal Logic Specifications using Vision-based Localization.’’ /International Journal of Robotics Research/, 2019.
+~~~
+
+
+~~~
+{}{img_left}{IROS.PNG}{IROS}{}{}
+I also investigate information gathering algorithms for individual agents and teams of robots. In this work, agents must satisfy a temporal logic formula while estimating the background field, represented here as different colors. Agents follow the gradient of the uncertainty of their belief about the background field to efficiently cover the area while completing their mission. Complete details are in ‘‘Distributed Sensing Subject to Temporal Logic Constraints ." In /Proc. of the International Conference on Robotics and Automation (ICRA)/, 2018.
+~~~
+
+~~~
+{}{img_left}{frame06_loop1_q2_over_r1.jpg}{ISER}{405}{328}
+In this work, I investigated how to satisfy a complex persistent surveillance mission. The time horizon of the mission is longer than an individual agent can accomplish on its own. Agents must take into account their battery level and charging times to coordinate a strategy for maintaining surveillance coverage. This work appears as ‘‘Persistent Surveillance for Unmanned Aerial Vehicles Subject to Charging and Temporal Logic Constraints." /Autonomous Robots/, 2015.
+~~~
+
+~~~
+{}{img_left}{charging_station.jpg}{charging_station}{302}{296}
+Details of the charging stations from the above work.
+~~~
