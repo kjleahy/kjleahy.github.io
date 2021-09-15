@@ -2,7 +2,10 @@
 = Kevin J. Leahy -- Publications
 
 == Journal
-. Yazdani, K., Jones, A., *Leahy, K.*, and Hale, M. ``Differentially Private LQ Control.'' /IEEE Transactions on Automatic Control/. *Submitted*.
+. Cai, M., *Leahy, K.*, Serlin, Z., and Vasile, C.-I. ``Probabilstic Coordination of Heterogeneous Teams from Capability Temporal Logic Specifications." In /IEEE Robotics and Automation Letters/. *Submitted*.
+. *Leahy, K.*, Jones, A., and Vasile, C.-I. ``Fast Decomposition of Temporal Logic Specifications for Heterogeneous Teams." In /IEEE Robotics and Automation Letters/. *Submitted*.
+. *Leahy, K.*, Serlin, Z., Vasile, C.-I., Schoer, A., Jones, A., Tron, R., and Belta, C. ``Scalable and Robust Algorithms for Task-based Coordination from High-level Specifications (ScRATCHeS)'' /IEEE Transactions on Robotics/. *Submitted*.
+. Yazdani, K., Jones, A., *Leahy, K.*, and Hale, M. ``Differentially Private LQ Control.'' /IEEE Transactions on Automatic Control/. *Accepted*.
 . *Leahy, K.*, Cristofalo, E., Vasile, C.-I., Jones, A., Montijano, E., Schwager, M., and Belta, C. ``Control in Belief Space with Temporal Logic Specifications using Vision-based Localization.'' /International Journal of Robotics Research/, 38(6): 702--722, 2019.
 . *Leahy, K.*, and Schwager, M. ``Tracking a Markov Target in a Discrete Environment with Multiple Sensors." /IEEE Transactions on Automatic Control/, 64(6): 2396--2411, 2018.
 . *Leahy, K.*, Zhou, D., Vasile, C.-I., Oikonomopoulos, K., Schwager, M., and Belta, C.``Persistent Surveillance for Unmanned Aerial Vehicles Subject to Charging and Temporal Logic Constraints." /Autonomous Robots/, 2015. 
