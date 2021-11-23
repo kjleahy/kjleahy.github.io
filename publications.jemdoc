@@ -2,10 +2,11 @@
 = Kevin J. Leahy -- Publications
 
 == Journal
+. Cohen, M., Serlin, Z., *Leahy, K.*, and Belta, C. ``Temporal Logic Guided Safe Model-Based Reinforcement Learning: A Hybrid Systems Approach." /Nonlinear Analysis: Hybrid Systems/. *Submitted*.
 . Cai, M., *Leahy, K.*, Serlin, Z., and Vasile, C.-I. ``Probabilstic Coordination of Heterogeneous Teams from Capability Temporal Logic Specifications." In /IEEE Robotics and Automation Letters/. *Submitted*.
 . *Leahy, K.*, Jones, A., and Vasile, C.-I. ``Fast Decomposition of Temporal Logic Specifications for Heterogeneous Teams." In /IEEE Robotics and Automation Letters/. *Submitted*.
-. *Leahy, K.*, Serlin, Z., Vasile, C.-I., Schoer, A., Jones, A., Tron, R., and Belta, C. ``Scalable and Robust Algorithms for Task-based Coordination from High-level Specifications (ScRATCHeS)'' /IEEE Transactions on Robotics/. *Submitted*.
-. Yazdani, K., Jones, A., *Leahy, K.*, and Hale, M. ``Differentially Private LQ Control.'' /IEEE Transactions on Automatic Control/. *Accepted*.
+. *Leahy, K.*, Serlin, Z., Vasile, C.-I., Schoer, A., Jones, A., Tron, R., and Belta, C. ``Scalable and Robust Algorithms for Task-based Coordination from High-level Specifications (ScRATCHeS)'' /IEEE Transactions on Robotics/. *Accepted*.
+. Yazdani, K., Jones, A., *Leahy, K.*, and Hale, M. ``Differentially Private LQ Control.'' /IEEE Transactions on Automatic Control/. *Submitted*.
 . *Leahy, K.*, Cristofalo, E., Vasile, C.-I., Jones, A., Montijano, E., Schwager, M., and Belta, C. ``Control in Belief Space with Temporal Logic Specifications using Vision-based Localization.'' /International Journal of Robotics Research/, 38(6): 702--722, 2019.
 . *Leahy, K.*, and Schwager, M. ``Tracking a Markov Target in a Discrete Environment with Multiple Sensors." /IEEE Transactions on Automatic Control/, 64(6): 2396--2411, 2018.
 . *Leahy, K.*, Zhou, D., Vasile, C.-I., Oikonomopoulos, K., Schwager, M., and Belta, C.``Persistent Surveillance for Unmanned Aerial Vehicles Subject to Charging and Temporal Logic Constraints." /Autonomous Robots/, 2015. 
@@ -14,6 +15,7 @@
 . Parthan, A., *Leahy, K.*, O'Sullivan, A., Iakoubova, O., Bare, L., Devlin, J., and Weinstein, M.C.  ``Cost-effectiveness of targeted high-dose atorvastatin therapy following genotype testing in patients with acute coronary syndrome." /Pharmacoeconomics/, 31(6):519--531, 2013.
 
 == Conference
+. Liu, W., *Leahy, K.*, Serlin, Z., and Belta, C. ``Robust Multi-Agent Coordination from CaTL+ Specifications." In /13^{th} ACM\/IEEE International Conference on Cyber-Physical Systems (ICCPS)/, 2022. *Submitted*.
 . Jones, A., *Leahy, K.*, Vasile, C.-I., Sadraddini, S., Serlin, Z., Tron, R., and Belta, C. ``ScRATCHS: Scalable and Robust Algorithms for Task-based Coordination from High-level Specifications." In /Proc. of the International Symposium on Robotics Research (ISRR 10)/, Hanoi, Vietnam, October 2019.
 . Jones, A., *Leahy, K.*, and Hale, M. ``Towards Differential Privacy for Symbolic Systems." In /Proc. of the American Control Conference (ACC)/, Philadelphia, Pennsylvania, 2019.
 . Serlin, Z., *Leahy, K.*, Tron, R., and Belta, C. ``Distributed Sensing Subject to Temporal Logic Constraints ." In /Proc. of the International Conference on Robotics and Automation (ICRA)/, Melbourne, Australia, 2018.
